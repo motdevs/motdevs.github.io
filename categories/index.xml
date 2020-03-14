@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Classic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2020 02:53:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 16:23:01 +0900</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leadership Patterns</title>
+      <link>/categories/leadership-patterns/</link>
+      <pubDate>Sat, 14 Mar 2020 16:23:01 +0900</pubDate>
+      
+      <guid>/categories/leadership-patterns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>test</title>
