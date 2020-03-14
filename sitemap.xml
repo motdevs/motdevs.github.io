@@ -1,37 +1,40 @@
-<?xml-stylesheet type="text/xsl" href="http://motdevs.github.io/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://motdevs.github.io/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-03-11T02:53:18+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://motdevs.github.io/post/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-11T02:53:18+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://motdevs.github.io/post/test/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-03-11T02:53:18+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://motdevs.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-11T02:53:18+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://motdevs.github.io/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>/post/2020/03/11/test/</loc>
+    <lastmod>2020-03-11T02:53:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/test/</loc>
+    <lastmod>2020-03-11T02:53:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/test/</loc>
+    <lastmod>2020-03-11T02:53:18+09:00</lastmod>
   </url>
   
 </urlset>

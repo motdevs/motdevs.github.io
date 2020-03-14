@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on motdevs blog</title>
-    <link>http://motdevs.github.io/tags/</link>
-    <description>Recent content in Tags on motdevs blog</description>
+    <title>Tags on Classic</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Classic</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2020 02:53:18 +0900</lastBuildDate>
     
-	<atom:link href="http://motdevs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test</title>
+      <link>/tags/test/</link>
+      <pubDate>Wed, 11 Mar 2020 02:53:18 +0900</pubDate>
+      
+      <guid>/tags/test/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
