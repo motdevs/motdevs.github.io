@@ -1,1 +1,2 @@
 User-agent: *
+Sitemap: http://motdevs.github.io/sitemap.xml
